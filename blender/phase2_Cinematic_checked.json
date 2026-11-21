@@ -1,0 +1,214 @@
+{
+  "preset": "Cinematic",
+  "landmarks": {
+    "raw_landmark_rms_mm": 12.450577446409465,
+    "baseline_landmark_rms_mm": 3.56561866761043,
+    "landmark_rms_mm": 2.9486947193266384,
+    "quiet_joint_samples": 5223
+  },
+  "rotation_bones": {
+    "mixamorig:Hips": {
+      "quiet_samples": 105,
+      "residual_rms_deg_before": 0.33438282029880895,
+      "residual_rms_deg_after": 0.33027813286275465,
+      "max_step_deg_before": 6.084548489087259,
+      "max_step_deg_after": 5.043779071338114,
+      "minimum_adjacent_dot": 0.9990314841270447
+    },
+    "mixamorig:Spine": {
+      "quiet_samples": 92,
+      "residual_rms_deg_before": 0.10287479447529069,
+      "residual_rms_deg_after": 0.08759958660687696,
+      "max_step_deg_before": 10.10009521442973,
+      "max_step_deg_after": 13.145242691262576,
+      "minimum_adjacent_dot": 0.993427574634552
+    },
+    "mixamorig:Spine1": {
+      "quiet_samples": 90,
+      "residual_rms_deg_before": 0.10224066937912017,
+      "residual_rms_deg_after": 0.090317699548889,
+      "max_step_deg_before": 2.904513473154779,
+      "max_step_deg_after": 2.3673197111541926,
+      "minimum_adjacent_dot": 0.9997866153717041
+    },
+    "mixamorig:Spine2": {
+      "quiet_samples": 92,
+      "residual_rms_deg_before": 0.10532648415427463,
+      "residual_rms_deg_after": 0.08837310794643555,
+      "max_step_deg_before": 22.87759363137677,
+      "max_step_deg_after": 2.367980904839652,
+      "minimum_adjacent_dot": 0.9997864961624146
+    },
+    "mixamorig:LeftArm": {
+      "quiet_samples": 109,
+      "residual_rms_deg_before": 0.4512824343158045,
+      "residual_rms_deg_after": 0.37476954653891703,
+      "max_step_deg_before": 16.630391116757522,
+      "max_step_deg_after": 15.400060865533762,
+      "minimum_adjacent_dot": 0.9909831285476685
+    },
+    "mixamorig:LeftForeArm": {
+      "quiet_samples": 122,
+      "residual_rms_deg_before": 0.4548463912773665,
+      "residual_rms_deg_after": 0.3717200233402827,
+      "max_step_deg_before": 17.901741114654506,
+      "max_step_deg_after": 16.46149879981798,
+      "minimum_adjacent_dot": 0.9896995425224304
+    },
+    "mixamorig:RightArm": {
+      "quiet_samples": 105,
+      "residual_rms_deg_before": 0.3999944142214618,
+      "residual_rms_deg_after": 0.3618758839321251,
+      "max_step_deg_before": 18.434756415877942,
+      "max_step_deg_after": 14.78165538738817,
+      "minimum_adjacent_dot": 0.9916917681694031
+    },
+    "mixamorig:RightForeArm": {
+      "quiet_samples": 112,
+      "residual_rms_deg_before": 0.42388907898222355,
+      "residual_rms_deg_after": 0.4360783302749801,
+      "max_step_deg_before": 22.245258551922383,
+      "max_step_deg_after": 19.472388891602677,
+      "minimum_adjacent_dot": 0.9855968356132507
+    },
+    "mixamorig:LeftUpLeg": {
+      "quiet_samples": 82,
+      "residual_rms_deg_before": 0.2861068873054659,
+      "residual_rms_deg_after": 0.2511048897871832,
+      "max_step_deg_before": 5.47276044012452,
+      "max_step_deg_after": 3.6760551322880377,
+      "minimum_adjacent_dot": 0.9994854927062988
+    },
+    "mixamorig:LeftLeg": {
+      "quiet_samples": 92,
+      "residual_rms_deg_before": 0.42146779790307587,
+      "residual_rms_deg_after": 0.32350936398685926,
+      "max_step_deg_before": 7.466999282108234,
+      "max_step_deg_after": 6.343017152442311,
+      "minimum_adjacent_dot": 0.9984683990478516
+    },
+    "mixamorig:RightUpLeg": {
+      "quiet_samples": 79,
+      "residual_rms_deg_before": 0.25251505671741176,
+      "residual_rms_deg_after": 0.2332622816952394,
+      "max_step_deg_before": 4.503195549104411,
+      "max_step_deg_after": 3.3649802105904745,
+      "minimum_adjacent_dot": 0.9995688796043396
+    },
+    "mixamorig:RightLeg": {
+      "quiet_samples": 79,
+      "residual_rms_deg_before": 0.2157884383162823,
+      "residual_rms_deg_after": 0.17491130157655507,
+      "max_step_deg_before": 3.917693719092559,
+      "max_step_deg_after": 3.368700230999762,
+      "minimum_adjacent_dot": 0.9995679259300232
+    }
+  },
+  "source_hash": "1232dbccd4dc47a4b91d5b51d5cc235631a78e297c902de2724d821d328217d9",
+  "original_action": "MOCAP_SMOOTH_sword_combo_ef771c1f",
+  "new_action": "MOCAP_PHASE2_Cinematic_b9a36306",
+  "reference_unchanged": true,
+  "rigs_meshes_weights_unchanged": true,
+  "original_action_keyframes_unchanged": true,
+  "samples": 572,
+  "range": [
+    1,
+    573
+  ],
+  "parameters": {
+    "window": 19,
+    "quiet": 1.0,
+    "fast": 0.25,
+    "rotation_radius": 5,
+    "rotation_quiet": 0.97,
+    "rotation_fast": 0.18
+  },
+  "quaternion_filter": "Centered hemisphere-aligned Gaussian quaternion mean radius 5; quiet/fast blend 0.97/0.18",
+  "limitations": "Motion-derived quiet masks and speed peaks are proxies, not ground-truth labels for stationary poses/punches.",
+  "target_mesh_max_displacement_m": 1.0483401675639121,
+  "reference_mesh_unchanged_at_six_checks": true,
+  "all_existing_action_keyframes_preserved": true,
+  "saved_file_reopened": true,
+  "evaluated_wrist_motion": {
+    "left": {
+      "events": [
+        {
+          "source_time_s": 0.417,
+          "before_m_s": 5.151333565986437,
+          "after_m_s": 4.591983755666236,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.8914165034829985
+        },
+        {
+          "source_time_s": 2.117,
+          "before_m_s": 5.021094874306198,
+          "after_m_s": 4.423196022292882,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.8809226140950122
+        },
+        {
+          "source_time_s": 2.583,
+          "before_m_s": 6.602444272714318,
+          "after_m_s": 6.10762892647512,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9250557330284326
+        },
+        {
+          "source_time_s": 7.433,
+          "before_m_s": 4.8339419091411235,
+          "after_m_s": 4.506204553023111,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9322008078958807
+        },
+        {
+          "source_time_s": 8.0,
+          "before_m_s": 4.977818077669091,
+          "after_m_s": 4.1757335463851,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.8388682513565111
+        }
+      ],
+      "best_speed_alignment_lag_samples": 0
+    },
+    "right": {
+      "events": [
+        {
+          "source_time_s": 1.483,
+          "before_m_s": 5.344914829314256,
+          "after_m_s": 4.990157531132164,
+          "peak_shift_ms": 17.000000000000128,
+          "speed_ratio": 0.9336271372863754
+        },
+        {
+          "source_time_s": 2.667,
+          "before_m_s": 5.393051065929971,
+          "after_m_s": 5.040752677459301,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9346754955286298
+        },
+        {
+          "source_time_s": 3.367,
+          "before_m_s": 5.676423805027174,
+          "after_m_s": 5.208808589868518,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9176215111450057
+        },
+        {
+          "source_time_s": 6.517,
+          "before_m_s": 6.4155015341746715,
+          "after_m_s": 5.959301965402991,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9288910514101578
+        },
+        {
+          "source_time_s": 8.367,
+          "before_m_s": 6.2717817693983715,
+          "after_m_s": 5.839091029823514,
+          "peak_shift_ms": 15.999999999998238,
+          "speed_ratio": 0.9310099178376923
+        }
+      ],
+      "best_speed_alignment_lag_samples": 0
+    }
+  }
+}

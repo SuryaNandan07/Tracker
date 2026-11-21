@@ -1,0 +1,434 @@
+{
+  ".gitignore": {
+    "bytes": 93,
+    "sha256": "8e4aeaf1749c3b424200cda043512f66a6def5ae0df5a6cab203c18911d25b66"
+  },
+  "2.py": {
+    "bytes": 6321,
+    "sha256": "5f0eb218374c6b03c71ab061d726fb2521db7c15cd7406f38ce38260adfa8381"
+  },
+  "face_landmarker.task": {
+    "bytes": 3758596,
+    "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff"
+  },
+  "How to squat correctly.webm": {
+    "bytes": 1765024,
+    "sha256": "737d4cf47c991809f2a349bd8c92020ff98a392617250e7ae5074d09cf1970db"
+  },
+  "Humanoid_Mocap_Balanced.blend": {
+    "bytes": 99683814,
+    "sha256": "9f62a1d53671fff8153759e05bef2bcf6cc2db788264e5c77bd447762634bfb1"
+  },
+  "Humanoid_Mocap_Balanced.blend1": {
+    "bytes": 99683463,
+    "sha256": "9ba584cbe14443728e10244e985eb57c2dc26c6f52519f566422bb6313719880"
+  },
+  "Humanoid_Mocap_Cinematic.blend": {
+    "bytes": 99683647,
+    "sha256": "8ff6fffbb11f4ec9fa97fb7978e75df9c09e6af85e63087a58a64d4b93c042eb"
+  },
+  "Humanoid_Mocap_Cinematic.blend1": {
+    "bytes": 99683652,
+    "sha256": "e7bb19b427432750f343b835dd8b4af64757fe1392a91ddfeb489db6c91aee2b"
+  },
+  "Humanoid_Mocap_Natural.blend": {
+    "bytes": 99681644,
+    "sha256": "0d89e8f4eaf0140ed8490770f137d5139402d27c76f687737fc0df163f0e1511"
+  },
+  "Humanoid_Mocap_Result.blend": {
+    "bytes": 98805706,
+    "sha256": "b27f38c504b1ae4ac43e0767ad46d9d314faf754d640aa7d26778e016caaa2f2"
+  },
+  "Humanoid_Mocap_Result.blend1": {
+    "bytes": 98805726,
+    "sha256": "5f3e7a2ccecc5ee30d365e3dcd9eed4e134929826457b6142088497c911af820"
+  },
+  "Humanoid_Mocap_Smoothed.blend": {
+    "bytes": 99234728,
+    "sha256": "1232dbccd4dc47a4b91d5b51d5cc235631a78e297c902de2724d821d328217d9"
+  },
+  "Humanoid_Retarget_Test.blend": {
+    "bytes": 98364641,
+    "sha256": "00d7fea2024f3db991b2a11981d9d11cc846973fe761487cb53d747c1cfbe24b"
+  },
+  "Humanoid_Retarget_Test.blend1": {
+    "bytes": 97114623,
+    "sha256": "eca601dcca25f2b4382d32a1ae9beca6a6cdb05f27ae6086e43cd203bbd04a31"
+  },
+  "main.py": {
+    "bytes": 996,
+    "sha256": "fd170390360cc2db2789dc9cc0474faad1098ae934faf3a599b30e219991ad63"
+  },
+  "main2.py": {
+    "bytes": 2512,
+    "sha256": "53f12b900156efd2e23d0fd9598e795fefe388746dd6871e0de4a3e6b96223ee"
+  },
+  "male-Bodyweight-bodyweight-squat-side.mp4": {
+    "bytes": 775224,
+    "sha256": "587c4e83a3b1dc105d602e430d2849124535f4615f9de8800625c5178f5b2feb"
+  },
+  "male-Bodyweight-push-up-side.mp4": {
+    "bytes": 1026986,
+    "sha256": "ca6231934881ee25f0bfd0d688b4a25c205e427253da2f42c635c262b1dc3041"
+  },
+  "mocap.db": {
+    "bytes": 28672,
+    "sha256": "59944c696f271fbdc827f97360eea5a85d4c52aaa0a7f89426bf39afea03a674"
+  },
+  "Mocap_Experiment.blend": {
+    "bytes": 96571,
+    "sha256": "f71461b0cf5d339af3b7c852c1ac47a62da60aa3cace693648b9ba0e91f48c89"
+  },
+  "newquarts.py": {
+    "bytes": 8653,
+    "sha256": "2de5d6f4876c7de35c7a55bfa0be9ff4c713f0ba200d0976e3fc0e2a56e66f3c"
+  },
+  "pushups.py": {
+    "bytes": 9029,
+    "sha256": "a428c6cf6aa200c2da87c4084bad972da1809c8dff97801d3c1ad3602e6ba428"
+  },
+  "requirements-mocap.txt": {
+    "bytes": 65,
+    "sha256": "229aadf3011c11a1ec91b738279209c57b0004cf882f72132e1b9d6302fcede1"
+  },
+  "squarts.py": {
+    "bytes": 6685,
+    "sha256": "f4ac0869274bd48db042b888eaa19d03d4af66927f5319fbbb56236b145de2b2"
+  },
+  "tracker.py": {
+    "bytes": 920,
+    "sha256": "4910c29313133316e70c5095adf733b5f2252563ba107dc2493024f170915ae6"
+  },
+  "yolov8n-pose.pt": {
+    "bytes": 6832633,
+    "sha256": "c6fa93dd1ee4a2c18c900a45c1d864a1c6f7aba75d84f91648a30b7fb641d212"
+  },
+  "yolov8s-pose.pt": {
+    "bytes": 23513657,
+    "sha256": "234314cd8baf62616791aceb9ea6ad5c19f26cf6c0d8f3a1bfce1e23b186cfb3"
+  },
+  ".idea\\.gitignore": {
+    "bytes": 238,
+    "sha256": "4d4bf7821823e4011771702449065544347784ecf4cbde265125a36c0d8e31b0"
+  },
+  ".idea\\misc.xml": {
+    "bytes": 304,
+    "sha256": "2c784ce33045617aa950b7d0b4d0d300961b2f6aea18b58887c5ed21d602f828"
+  },
+  ".idea\\modules.xml": {
+    "bytes": 273,
+    "sha256": "6bf2e648afabc401813f35b67ba6c339c2b27b06f009e4334e6efe9d6893e325"
+  },
+  ".idea\\tracker.iml": {
+    "bytes": 406,
+    "sha256": "39559f40a3e2537176d2d7637db08fa7ca22b2fdc59bbf758c0d0c36e1f6a628"
+  },
+  ".idea\\workspace.xml": {
+    "bytes": 7507,
+    "sha256": "cf38bc83570f6cb8c30ee87ef187afeba2c33d8e81ce9118f475756e78960c0e"
+  },
+  ".idea\\inspectionProfiles\\profiles_settings.xml": {
+    "bytes": 174,
+    "sha256": "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+  },
+  ".idea\\inspectionProfiles\\Project_Default.xml": {
+    "bytes": 251,
+    "sha256": "725960a07196ca7e40f4c7343c9b56132ec0a79956ab048cd6568c27dc68d50c"
+  },
+  ".vscode\\settings.json": {
+    "bytes": 68,
+    "sha256": "b3f38d5469db454a51c0c705ae9160a4e133df1f23c19f7086cce7169a544aa9"
+  },
+  "blender\\check_retarget_result.py": {
+    "bytes": 2249,
+    "sha256": "eff6514749338702c287864a62d206a67be4147ef34a9775ccc91473150905a5"
+  },
+  "blender\\check_smoothed.py": {
+    "bytes": 2472,
+    "sha256": "c98899bd6612a7d09608d10d85bfb2bef400935f3e70f5705f49ded0f28e0404"
+  },
+  "blender\\import_mocap.py": {
+    "bytes": 9283,
+    "sha256": "ca60e645077ee025758c6e7dfa09f754277caf34bc3f327d56a1d7407b90bab6"
+  },
+  "blender\\phase2_Balanced_checked.json": {
+    "bytes": 7552,
+    "sha256": "cae82d7e2f1a278189f4a2d24116654cc35188986d9a5b739285374a9eebc1fd"
+  },
+  "blender\\phase2_Balanced_validation.json": {
+    "bytes": 4887,
+    "sha256": "1d74a514ffb9b5523b826e3498fb9d2122e47898fd2f9cdfaea67baa3d688a1e"
+  },
+  "blender\\phase2_Cinematic_checked.json": {
+    "bytes": 7574,
+    "sha256": "9440c294804d66e3de5389172562f297e6a2274a05bc2d00cf282a559b05ca7d"
+  },
+  "blender\\phase2_Cinematic_validation.json": {
+    "bytes": 4895,
+    "sha256": "06aa88f8a2120fc0daaf24ad8bd1c3f54765771a304679602a10b652450acefa"
+  },
+  "blender\\phase2_compare.py": {
+    "bytes": 3712,
+    "sha256": "6b30b56bf7ffae83fe133fb783d1b6eed612452c490ce2228d361282b62e2059"
+  },
+  "blender\\phase2_comparison.json": {
+    "bytes": 1338,
+    "sha256": "01987dfe088320ac0d4b7d8879b18838c1b0e9e92ddc71b2c13cd7a9487ee0c5"
+  },
+  "blender\\phase2_Natural_checked.json": {
+    "bytes": 7555,
+    "sha256": "e35500af100e310885a336f73780e4215fcae67b7945f071f1bd0032ad66b6e2"
+  },
+  "blender\\phase2_Natural_validation.json": {
+    "bytes": 4887,
+    "sha256": "e1acf18fa93ec4fb37be17a5066175f2ade3e01e549755b99e85fccaafcb2708"
+  },
+  "blender\\phase2_preview.py": {
+    "bytes": 1155,
+    "sha256": "f9e181567e55372815e677af50656a8ebe95baa2274118671ddbc822e8661aca"
+  },
+  "blender\\PHASE2_README.md": {
+    "bytes": 8242,
+    "sha256": "a688792cc8017c60b0d76aa1cfffba6639e35357e61201172f8720686b34b1f2"
+  },
+  "blender\\phase2_retarget.py": {
+    "bytes": 7090,
+    "sha256": "779d24f2cc883ba6ccf250257cb35fe915fa183ac19da34827dfdaaa0546a12a"
+  },
+  "blender\\README.md": {
+    "bytes": 9215,
+    "sha256": "ac8ed6e715909f5b002607a58939f5ba55cb44f2c6d68bfb94b7dcaa375f6e41"
+  },
+  "blender\\retarget_mixamo.py": {
+    "bytes": 10620,
+    "sha256": "bb582bc1485aa5f4ba25b0d7cc7de5bfca1c61e5fe5e2cf854f4d5b3ce939a9b"
+  },
+  "blender\\RETARGET_README.md": {
+    "bytes": 5808,
+    "sha256": "7b3cc1fc85bd7ddbae219330e1782f461041652a69223155db0dacf9843caef7"
+  },
+  "blender\\retarget_solver.py": {
+    "bytes": 2875,
+    "sha256": "d6e01d250e1407698b69b84608f1369aa884b8692079076aa1c194e75380b42e"
+  },
+  "blender\\retarget_validation.json": {
+    "bytes": 2031,
+    "sha256": "d5db8ca07769f51cbad39e2355ad6fef1b666f0569f00010fdbada01c859f133"
+  },
+  "blender\\SMOOTHING_README.md": {
+    "bytes": 7012,
+    "sha256": "ecbc30fe7a6efd332caba0924be2f1f80f6fb7bd21016e1a1f0fa99bf6ae19cd"
+  },
+  "blender\\smoothing_validation.json": {
+    "bytes": 9293,
+    "sha256": "ca6dc7fa2e0a0be3a557ec885611057ec2ad230d3aa56d5dc1aa7345166b969d"
+  },
+  "blender\\smooth_retarget.py": {
+    "bytes": 6575,
+    "sha256": "6bdd32696dca6d42de50353c8786d1c7f1614fca1d32bda16df4507493bcc3d6"
+  },
+  "blender\\validate_import.py": {
+    "bytes": 3027,
+    "sha256": "7ea4ebf8a36ca70db20bafbfb36c26f56324c7a329385fb56656ca8ffc9756ce"
+  },
+  "exports\\.gitignore": {
+    "bytes": 14,
+    "sha256": "240a3e0d37d2e86b614063f5347eb02d4f99ca6c254de6b82871ff8d95532a7d"
+  },
+  "exports\\retarget_preview_100.png": {
+    "bytes": 434929,
+    "sha256": "ebade20fd3718965139c1b58891a069e89c80e9f540e9c96aaa1320afb73e713"
+  },
+  "exports\\retarget_preview_400.png": {
+    "bytes": 435903,
+    "sha256": "26a644725f898dba50c31073e4a35fcd1af771ee268d3a94b2c0256724a28055"
+  },
+  "exports\\sword_combo_001.blend": {
+    "bytes": 98032112,
+    "sha256": "e8b12abf44b4ea0f7a4e1e840f5551f72333b36fcaf7bbd2af12de6cb7fcbd77"
+  },
+  "exports\\sword_combo_001.blend1": {
+    "bytes": 965510,
+    "sha256": "d5b9262a317748b2c386374445f33df7fe5bf113544e6e4d4e3ce3e0e73805ae"
+  },
+  "exports\\sword_combo_001.blend11": {
+    "bytes": 961045,
+    "sha256": "4596a6f3d9804f8b4590b84f5035a3a7c5bb405cc048651ec5dd6c9318861cd3"
+  },
+  "exports\\sword_combo_001.json": {
+    "bytes": 3902896,
+    "sha256": "b1ed123cf1d4c1ef5a40fee7215a14801dcc5563034d63d8cff83a9b42d93712"
+  },
+  "exports\\sword_combo_smoothed.json": {
+    "bytes": 1507172,
+    "sha256": "13031441fefe73d387d8cdb4b9630a39031df3c3bc568a3b80df008d0bcab283"
+  },
+  "exports\\phase2\\Balanced.json": {
+    "bytes": 1252695,
+    "sha256": "abfe45ddb183a27c263c4f345fa137d76b62d82861f67eb054981da701115718"
+  },
+  "exports\\phase2\\Balanced_100.png": {
+    "bytes": 434543,
+    "sha256": "5834c7d8c17c572fa7b00ca9244f31bff67dcc37a8c5cdbad2d83fbda837bd9e"
+  },
+  "exports\\phase2\\Balanced_400.png": {
+    "bytes": 435461,
+    "sha256": "7717bc86fbfb505785bb90aea44c7bdf6d50506ca5f0026d430127e1d361d6ae"
+  },
+  "exports\\phase2\\Cinematic.json": {
+    "bytes": 1252595,
+    "sha256": "71e2161bb4420d059afbf34b133259425494576c3222b10f9b8af8340cb56174"
+  },
+  "exports\\phase2\\Cinematic_100.png": {
+    "bytes": 434657,
+    "sha256": "af2fc8f58da37301704aa382a5d82a0c99968e751ba294ada29daafd408a26df"
+  },
+  "exports\\phase2\\Cinematic_400.png": {
+    "bytes": 435263,
+    "sha256": "d9cbaba0448a14b9fe6f0a8120fd1c416f4bfe4e1a31ee3c58c8ec68dc552a9e"
+  },
+  "exports\\phase2\\Natural.json": {
+    "bytes": 1252506,
+    "sha256": "35af0d7fb1c2b1a1770bb28b7e234a8a6c34131b3a07d029a7a6d9e42cd06f84"
+  },
+  "exports\\phase2\\Natural_100.png": {
+    "bytes": 434718,
+    "sha256": "ef905b3c9d9e62d92ac52b555f167ac3829a95091f5eb75f09f1e2787ef010a4"
+  },
+  "exports\\phase2\\Natural_400.png": {
+    "bytes": 435396,
+    "sha256": "60c9b3c6f2c17db24e3079069ddc0a8101594cc3d9285ab317470790d2ba3ac7"
+  },
+  "mocap\\capture.py": {
+    "bytes": 9386,
+    "sha256": "1048ed7ba499d36e0caa78314c02c96da77aa57cdb0f3aa71d7aa19bc5187ab8"
+  },
+  "mocap\\config.py": {
+    "bytes": 1957,
+    "sha256": "13767db97963dcbbad2916700d0c52d9a54e6face870b21ac118c70781098720"
+  },
+  "mocap\\database.py": {
+    "bytes": 1425,
+    "sha256": "2b9f136aeacb8d10050b879435766f60d6696c416f3c024de9a153cfe1a6b951"
+  },
+  "mocap\\drawing.py": {
+    "bytes": 756,
+    "sha256": "dd8397df3f475c4db3a735b57b6b8049150febd50a4107776bea977459896e80"
+  },
+  "mocap\\export_blender.py": {
+    "bytes": 4171,
+    "sha256": "1b8b28a7f4f85ca2f20d8cefd9ae3d197afd6ecfbc3bf4ba31e4c8f466cfdcb7"
+  },
+  "mocap\\phase2_motion.py": {
+    "bytes": 3210,
+    "sha256": "510a7e14eb8bdaf6a9b5a743fb368b64999f28f5bf0d8cf943fa08859f570daa"
+  },
+  "mocap\\phase2_presets.json": {
+    "bytes": 386,
+    "sha256": "f7ac45cde8b1424c239226f8b8939f89a324086da82940f5d69bbc5b1ed379c6"
+  },
+  "mocap\\playback.py": {
+    "bytes": 4782,
+    "sha256": "3ced7637e62c0787dec3c7aef630b80b97bfda1ba30c80c7dd735d8c702e11ee"
+  },
+  "mocap\\README.md": {
+    "bytes": 16878,
+    "sha256": "8a52ceeff795dc67c6041020462e974e6f3e772dc235030dbbd9a3e401adc0cb"
+  },
+  "mocap\\setup_model.py": {
+    "bytes": 1476,
+    "sha256": "b41eb23a008ca6eeaacca00d94d7562c8c10b58df526a6af71f40e7f180f9740"
+  },
+  "mocap\\smooth_motion.py": {
+    "bytes": 3760,
+    "sha256": "861887d78605516011d6ee6da90727aebf5abf26799ac1860169ea826cba2f02"
+  },
+  "mocap\\storage.py": {
+    "bytes": 5704,
+    "sha256": "9c9a02adf8909f517b59d9dbe2b8bbb9ca90b118e22229a0967c91e5c13df876"
+  },
+  "mocap\\video.py": {
+    "bytes": 8754,
+    "sha256": "c6b8bace661ae6141edd6305d439b63baed4564584bcb0e46d671b59f909a01f"
+  },
+  "mocap\\__init__.py": {
+    "bytes": 65,
+    "sha256": "8c2eba4a49b4a018173ef6d87435d560b015eb0e41c7e718f266122c7726a73e"
+  },
+  "mocap\\models\\pose_landmarker_full.task": {
+    "bytes": 9398198,
+    "sha256": "5134a3aad27a58b93da0088d431f366da362b44e3ccfbe3462b3827a839011b1"
+  },
+  "mocap\\tests\\smoke_video.py": {
+    "bytes": 2731,
+    "sha256": "18baccb74aaed17a12c327bdd6cfe510d7055cb695f71bd4206117063aa87a5f"
+  },
+  "mocap\\tests\\test_blender_export.py": {
+    "bytes": 4294,
+    "sha256": "c5d4ee0c797ca1b243106283790933091214883476d9e0c637ca1e43ea43d56f"
+  },
+  "mocap\\tests\\test_capture.py": {
+    "bytes": 2666,
+    "sha256": "b93d7f9f61e32a7512f6bdde9c693e0e7db485f954e248caec466ebfded72eb5"
+  },
+  "mocap\\tests\\test_phase2.py": {
+    "bytes": 1312,
+    "sha256": "4b5df26567d792933e50e03ebb8fb269f47ec300f255bffba77b78dac17e8bae"
+  },
+  "mocap\\tests\\test_pipeline.py": {
+    "bytes": 5033,
+    "sha256": "0939ffe78f1285d33da2ae875c43252c50a433f1f108778c5a4d078721502e0e"
+  },
+  "mocap\\tests\\test_smoothing.py": {
+    "bytes": 886,
+    "sha256": "d328aaf341a5b62db490b188ce33d58dab13fb5be774fcfeeb8af240dce52d54"
+  },
+  "mocap\\tests\\test_video.py": {
+    "bytes": 8021,
+    "sha256": "e4c6de161ae69e9a9061974367a44e7835b451b1b760bdf366ddba45e96941dd"
+  },
+  "mocap\\tests\\__init__.py": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "recordings\\sword_attack_001_87e2bc57bc144866958fc7264af004c0\\landmarks.npz": {
+    "bytes": 463427,
+    "sha256": "ede6fe82eb9664d4e0a080f1d42e1076f976bb646518d21259c46f57ad40cd3a"
+  },
+  "recordings\\sword_attack_001_87e2bc57bc144866958fc7264af004c0\\metadata.json": {
+    "bytes": 4008,
+    "sha256": "1ad9ed002f02e48cc54662e01b2f70c5c95f107bbc9d1d0306cee19f9e74c06a"
+  },
+  "recordings\\sword_attack_001_87e2bc57bc144866958fc7264af004c0\\reference.mp4": {
+    "bytes": 5795123,
+    "sha256": "5eb75cbbe6771e31d07db43e9aef8b370ce9262fb52bf9729f7a68a26376d33a"
+  },
+  "recordings\\sword_combo_001_7589f764fb134df8a20c4ab130f26cf4\\landmarks.npz": {
+    "bytes": 654660,
+    "sha256": "e5cb375170f9159519bddd589ccc0e0f70855bd443b5a273f005c2a34bbcfc65"
+  },
+  "recordings\\sword_combo_001_7589f764fb134df8a20c4ab130f26cf4\\metadata.json": {
+    "bytes": 4756,
+    "sha256": "ca0da9f879dfa8228d41fa2d3e0db35da8a18505c79202def6a518d8b7eff54c"
+  },
+  "recordings\\sword_combo_001_7589f764fb134df8a20c4ab130f26cf4\\reference.webm": {
+    "bytes": 4941908,
+    "sha256": "5e94265ebea10786d60f1cdb8bdcef65944ef06a75247ad0c1cafa0562e06f60"
+  },
+  "recordings\\sword_combo_001_e7a52d45a4af40e796a9a1af41301d00\\landmarks.npz": {
+    "bytes": 654660,
+    "sha256": "e5cb375170f9159519bddd589ccc0e0f70855bd443b5a273f005c2a34bbcfc65"
+  },
+  "recordings\\sword_combo_001_e7a52d45a4af40e796a9a1af41301d00\\metadata.json": {
+    "bytes": 4854,
+    "sha256": "fb59d7d72be8564715b1609816989df0e254f14348f11876852b05a3e804e118"
+  },
+  "recordings\\sword_combo_001_e7a52d45a4af40e796a9a1af41301d00\\reference.webm": {
+    "bytes": 4941908,
+    "sha256": "5e94265ebea10786d60f1cdb8bdcef65944ef06a75247ad0c1cafa0562e06f60"
+  },
+  "Videos\\fighting.webm": {
+    "bytes": 4941908,
+    "sha256": "5e94265ebea10786d60f1cdb8bdcef65944ef06a75247ad0c1cafa0562e06f60"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mode": "video",
+  "packets": 30,
+  "detections": 30,
+  "exit_code": 0,
+  "stdout": "Sending to 127.0.0.1:63309. Ctrl+C or preview Q to stop.\n30 packets, 30 detections, 15.0 Hz\nStopped: 30 packets, 30 detected poses. No recording written.\n",
+  "stderr": "INFO: Created TensorFlow Lite XNNPACK delegate for CPU.\nW0000 00:00:1791730492.685938   29240 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.\nW0000 00:00:1791730492.711304   12824 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.\nW0000 00:00:1791730493.100914   16332 landmark_projection_calculator.cc:81] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.\n",
+  "passed": true,
+  "note": "Independent actual MediaPipe sender and UDP listener; not an interactive Blender test."
+}

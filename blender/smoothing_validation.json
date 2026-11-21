@@ -1,0 +1,273 @@
+{
+  "landmarks": {
+    "stationary_landmark_residual_rms_mm_before": 12.450577446409465,
+    "stationary_landmark_residual_rms_mm_after": 3.56561866761043,
+    "stationary_joint_samples": 5223,
+    "wrist_speed_events": {
+      "15": [
+        {
+          "time_s": 1.45,
+          "raw_speed_m_s": 17.424809206655482,
+          "filtered_speed_m_s": 16.156007953714916,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 2.583,
+          "raw_speed_m_s": 21.939981464554496,
+          "filtered_speed_m_s": 20.23264001790039,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 7.417,
+          "raw_speed_m_s": 16.821641888299997,
+          "filtered_speed_m_s": 15.58313623403912,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 8.35,
+          "raw_speed_m_s": 13.773382454253563,
+          "filtered_speed_m_s": 12.695120956788006,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 9.183,
+          "raw_speed_m_s": 18.959300779309086,
+          "filtered_speed_m_s": 17.773020918433414,
+          "peak_shift_ms": 0.0
+        }
+      ],
+      "16": [
+        {
+          "time_s": 1.467,
+          "raw_speed_m_s": 21.066469959982477,
+          "filtered_speed_m_s": 19.524543715041286,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 2.583,
+          "raw_speed_m_s": 19.592552924049258,
+          "filtered_speed_m_s": 18.029007863094773,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 3.35,
+          "raw_speed_m_s": 19.070529397684272,
+          "filtered_speed_m_s": 17.60980672992521,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 6.500000000000001,
+          "raw_speed_m_s": 21.283662276075233,
+          "filtered_speed_m_s": 19.475520803525328,
+          "peak_shift_ms": 0.0
+        },
+        {
+          "time_s": 8.333,
+          "raw_speed_m_s": 20.054659215013547,
+          "filtered_speed_m_s": 18.522712691960997,
+          "peak_shift_ms": 0.0
+        }
+      ]
+    }
+  },
+  "rotation_bones": {
+    "mixamorig:Hips": {
+      "quiet_samples": 88,
+      "residual_rms_deg_before": 0.33769882823953473,
+      "residual_rms_deg_after": 0.2956542798547066,
+      "max_step_deg_before": 7.85240943560805,
+      "max_step_deg_after": 6.084934561335882,
+      "minimum_adjacent_dot": 0.9985904693603516
+    },
+    "mixamorig:Spine": {
+      "quiet_samples": 69,
+      "residual_rms_deg_before": 0.11180441699140582,
+      "residual_rms_deg_after": 0.08236045625383832,
+      "max_step_deg_before": 10.392737661712571,
+      "max_step_deg_after": 10.10009521442973,
+      "minimum_adjacent_dot": 0.9961181879043579
+    },
+    "mixamorig:Spine1": {
+      "quiet_samples": 69,
+      "residual_rms_deg_before": 0.11331603712533098,
+      "residual_rms_deg_after": 0.08372639439330419,
+      "max_step_deg_before": 3.535593807990818,
+      "max_step_deg_after": 2.904513473154779,
+      "minimum_adjacent_dot": 0.9996787905693054
+    },
+    "mixamorig:Spine2": {
+      "quiet_samples": 69,
+      "residual_rms_deg_before": 0.1141140470894384,
+      "residual_rms_deg_after": 0.08399691658032728,
+      "max_step_deg_before": 24.478659713653354,
+      "max_step_deg_after": 22.87759363137677,
+      "minimum_adjacent_dot": 0.9801371097564697
+    },
+    "mixamorig:LeftArm": {
+      "quiet_samples": 105,
+      "residual_rms_deg_before": 0.6228871700344033,
+      "residual_rms_deg_after": 0.4495182719260844,
+      "max_step_deg_before": 18.475433656955996,
+      "max_step_deg_after": 16.630296658548303,
+      "minimum_adjacent_dot": 0.9894875884056091
+    },
+    "mixamorig:LeftForeArm": {
+      "quiet_samples": 105,
+      "residual_rms_deg_before": 0.7422528239319973,
+      "residual_rms_deg_after": 0.4536942091298775,
+      "max_step_deg_before": 19.11085848804764,
+      "max_step_deg_after": 17.901741114654506,
+      "minimum_adjacent_dot": 0.9878221154212952
+    },
+    "mixamorig:RightArm": {
+      "quiet_samples": 84,
+      "residual_rms_deg_before": 0.6686842839103657,
+      "residual_rms_deg_after": 0.37744811924902166,
+      "max_step_deg_before": 21.280742795203352,
+      "max_step_deg_after": 18.434756415877942,
+      "minimum_adjacent_dot": 0.9870877265930176
+    },
+    "mixamorig:RightForeArm": {
+      "quiet_samples": 93,
+      "residual_rms_deg_before": 0.8463231230852261,
+      "residual_rms_deg_after": 0.41221130383083027,
+      "max_step_deg_before": 21.953426890217337,
+      "max_step_deg_after": 22.245258551922383,
+      "minimum_adjacent_dot": 0.981216549873352
+    },
+    "mixamorig:LeftUpLeg": {
+      "quiet_samples": 64,
+      "residual_rms_deg_before": 0.3540157029845691,
+      "residual_rms_deg_after": 0.2676106412297707,
+      "max_step_deg_before": 7.029041301023793,
+      "max_step_deg_after": 5.47276044012452,
+      "minimum_adjacent_dot": 0.9988597631454468
+    },
+    "mixamorig:LeftLeg": {
+      "quiet_samples": 71,
+      "residual_rms_deg_before": 0.5278804804269458,
+      "residual_rms_deg_after": 0.38995003555785573,
+      "max_step_deg_before": 8.099117596636113,
+      "max_step_deg_after": 7.466999282108234,
+      "minimum_adjacent_dot": 0.9978777170181274
+    },
+    "mixamorig:RightUpLeg": {
+      "quiet_samples": 58,
+      "residual_rms_deg_before": 0.27193751487217777,
+      "residual_rms_deg_after": 0.2219347042233617,
+      "max_step_deg_before": 5.753151126237584,
+      "max_step_deg_after": 4.503195549104411,
+      "minimum_adjacent_dot": 0.9992279410362244
+    },
+    "mixamorig:RightLeg": {
+      "quiet_samples": 64,
+      "residual_rms_deg_before": 0.26388309936710147,
+      "residual_rms_deg_after": 0.20095153482121636,
+      "max_step_deg_before": 3.9919233651260413,
+      "max_step_deg_after": 3.917294058225269,
+      "minimum_adjacent_dot": 0.9994157552719116
+    }
+  },
+  "source_hash": "f7035d389ca514160bf8876553ed9b801a020fe14f4c3c75e5e94c1e8334e45c",
+  "original_action": "MOCAP_sword_combo_001_ad35ce39",
+  "new_action": "MOCAP_SMOOTH_sword_combo_ef771c1f",
+  "reference_unchanged": true,
+  "rigs_meshes_weights_unchanged": true,
+  "original_action_keyframes_unchanged": true,
+  "samples": 572,
+  "range": [
+    1,
+    573
+  ],
+  "parameters": {
+    "window": 9,
+    "strength": 0.85,
+    "fast_strength": 0.15,
+    "output": "C:\\Epic Gamez\\tracker\\exports\\sword_combo_smoothed.json"
+  },
+  "quaternion_filter": "Centered slerp radius 2; quiet blend .65, fast blend .10; hemisphere continuity",
+  "limitations": "Motion-derived quiet masks and speed peaks are proxies, not ground-truth labels for stationary poses/punches.",
+  "saved_file_reopened": true,
+  "evaluated_wrist_motion": {
+    "left": {
+      "events": [
+        {
+          "source_time_s": 0.417,
+          "before_m_s": 5.348077480202678,
+          "after_m_s": 5.151333565986437,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9632122169238311
+        },
+        {
+          "source_time_s": 2.117,
+          "before_m_s": 5.325047549606446,
+          "after_m_s": 5.021094874306198,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9429201950839458
+        },
+        {
+          "source_time_s": 2.583,
+          "before_m_s": 6.84399936169477,
+          "after_m_s": 6.602444272714318,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9647055652383
+        },
+        {
+          "source_time_s": 7.433,
+          "before_m_s": 4.920982061857673,
+          "after_m_s": 4.8339419091411235,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9823124425932794
+        },
+        {
+          "source_time_s": 8.0,
+          "before_m_s": 5.254705114502412,
+          "after_m_s": 4.977818077669091,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9473068362924604
+        }
+      ],
+      "best_speed_alignment_lag_samples": 0
+    },
+    "right": {
+      "events": [
+        {
+          "source_time_s": 2.667,
+          "before_m_s": 5.690020872389552,
+          "after_m_s": 5.393051065929971,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9478086613178156
+        },
+        {
+          "source_time_s": 3.367,
+          "before_m_s": 5.885882909980871,
+          "after_m_s": 5.676423805027174,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9644133075432896
+        },
+        {
+          "source_time_s": 5.233,
+          "before_m_s": 5.586727024934899,
+          "after_m_s": 5.257632677593998,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9410935336786503
+        },
+        {
+          "source_time_s": 6.517,
+          "before_m_s": 6.639405190127089,
+          "after_m_s": 6.4155015341746715,
+          "peak_shift_ms": 0.0,
+          "speed_ratio": 0.9662765489466788
+        },
+        {
+          "source_time_s": 8.35,
+          "before_m_s": 6.274387539462424,
+          "after_m_s": 6.2717817693983715,
+          "peak_shift_ms": 17.000000000001236,
+          "speed_ratio": 0.9995846973034955
+        }
+      ],
+      "best_speed_alignment_lag_samples": 0
+    }
+  }
+}

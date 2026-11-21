@@ -1,0 +1,59 @@
+{
+  "source": "C:\\Epic Gamez\\tracker\\Humanoid_Retarget_Test.blend",
+  "source_sha256": "00d7fea2024f3db991b2a11981d9d11cc846973fe761487cb53d747c1cfbe24b",
+  "output": "C:\\Epic Gamez\\tracker\\Humanoid_Mocap_Result.blend",
+  "reference": "Character_REFERENCE / Ch44",
+  "target": "Character_MOCAP_TEST / Ch44.001",
+  "action": "MOCAP_sword_combo_001_ad35ce39",
+  "mapped_bones": [
+    "mixamorig:Hips",
+    "mixamorig:Spine",
+    "mixamorig:Spine1",
+    "mixamorig:Spine2",
+    "mixamorig:LeftArm",
+    "mixamorig:LeftForeArm",
+    "mixamorig:RightArm",
+    "mixamorig:RightForeArm",
+    "mixamorig:LeftUpLeg",
+    "mixamorig:LeftLeg",
+    "mixamorig:RightUpLeg",
+    "mixamorig:RightLeg"
+  ],
+  "sample_count": 572,
+  "fps": 60,
+  "range": [
+    1,
+    573
+  ],
+  "last_sample_frame": 572.02,
+  "duration_seconds": 9.517,
+  "missing_rows": [
+    174,
+    431
+  ],
+  "reference_geometry_rest_transforms_action_unchanged": true,
+  "reference_static_all_samples": true,
+  "target_rest_mesh_weights_unchanged": true,
+  "target_mesh_max_displacement_m": 1.0258104442437213,
+  "maximum_bone_length_error_armature_units": 0.0002614665831686125,
+  "degenerate_segments_held": 2,
+  "angular_rate_limit_events": 1358,
+  "largest_unsmoothed_rotation_step_deg": 168.18100468803124,
+  "root_translation": "Object transform and root location held fixed; rotations only",
+  "filter": "Missing-joint time interpolation; quaternion smoothing tau=35ms; 720 deg/s angular limit",
+  "limitations": [
+    "Estimated monocular depth",
+    "Minimal-swing limb twist, no calibrated roll",
+    "No foot contacts/IK: foot sliding possible",
+    "Hands/feet/head not independently tracked",
+    "Temporal filtering introduces lag; low-confidence valid estimates retained"
+  ],
+  "saved_file_reopened_successfully": true,
+  "reopen_action_curves": 48,
+  "reopen_keys_per_curve": 572,
+  "rendered_and_visually_inspected_frames": [
+    100,
+    400
+  ],
+  "interactive_play_manually_tested": false
+}

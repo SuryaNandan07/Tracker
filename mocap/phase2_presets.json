@@ -1,0 +1,5 @@
+{
+  "Natural": {"window": 11, "quiet": 0.92, "fast": 0.10, "rotation_radius": 3, "rotation_quiet": 0.75, "rotation_fast": 0.05},
+  "Balanced": {"window": 15, "quiet": 0.97, "fast": 0.15, "rotation_radius": 4, "rotation_quiet": 0.88, "rotation_fast": 0.10},
+  "Cinematic": {"window": 19, "quiet": 1.0, "fast": 0.25, "rotation_radius": 5, "rotation_quiet": 0.97, "rotation_fast": 0.18}
+}

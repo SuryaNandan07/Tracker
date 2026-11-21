@@ -1,0 +1,6 @@
+{
+  "baseline_files": 108,
+  "changed": [],
+  "missing": [],
+  "note": "Compared to the pre-migration manifest; virtual environments and Python caches excluded."
+}

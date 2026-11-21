@@ -1,0 +1,11 @@
+.venv*/
+__pycache__/
+*.pyc
+/recordings/
+/mocap.db*
+/mocap/__pycache__/
+/mocap/models/__pycache__/
+/vsCode/
+.idea/
+.blend1/
+reports/migration/original_sources/

@@ -1,0 +1,45 @@
+{
+  "blender": "5.1.2",
+  "source": "C:\\Epic Gamez\\tracker\\Humanoid_Mocap_Result.blend",
+  "output": "C:\\Epic Gamez\\tracker\\blender_projects\\experiments\\Humanoid_Live_Mocap.blend",
+  "source_sha256": "b27f38c504b1ae4ac43e0767ad46d9d314faf754d640aa7d26778e016caaa2f2",
+  "rig_names": [
+    "Character_REFERENCE",
+    "Character_MOCAP_TEST"
+  ],
+  "mesh_names": [
+    "Ch44",
+    "Ch44.001"
+  ],
+  "mapped_bones": [
+    "mixamorig:Hips",
+    "mixamorig:Spine",
+    "mixamorig:Spine1",
+    "mixamorig:Spine2",
+    "mixamorig:LeftArm",
+    "mixamorig:LeftForeArm",
+    "mixamorig:RightArm",
+    "mixamorig:RightForeArm"
+  ],
+  "test_packets": {
+    "state": "holding: missing torso",
+    "active": true,
+    "packets": 144,
+    "updates": 143,
+    "rejected": 3,
+    "update_hz": 71.5,
+    "pose_age_s": 0.005,
+    "smoothing_seconds": 0.06,
+    "error": null
+  },
+  "max_manual_tick_ms": 2.2267000003921567,
+  "target_mesh_displacement": 0.9485254776720566,
+  "actions_unchanged": true,
+  "reference_unchanged": true,
+  "pose_restored": true,
+  "root_transform_unchanged": true,
+  "repeated_start_stop": 3,
+  "reopened": true,
+  "interactive_viewport_tested": false,
+  "notes": "Background main-thread tick/network tests; no interactive latency measurement."
+}

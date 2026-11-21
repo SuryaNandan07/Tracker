@@ -1,0 +1,128 @@
+{
+  "preset": "Balanced",
+  "landmarks": {
+    "raw_landmark_rms_mm": 12.450577446409465,
+    "baseline_landmark_rms_mm": 3.56561866761043,
+    "landmark_rms_mm": 2.9731400217801807,
+    "quiet_joint_samples": 5223
+  },
+  "rotation_bones": {
+    "mixamorig:Hips": {
+      "quiet_samples": 105,
+      "residual_rms_deg_before": 0.33438282029880895,
+      "residual_rms_deg_after": 0.32396613856603956,
+      "max_step_deg_before": 6.084548489087259,
+      "max_step_deg_after": 5.834911893309863,
+      "minimum_adjacent_dot": 0.9987038969993591
+    },
+    "mixamorig:Spine": {
+      "quiet_samples": 92,
+      "residual_rms_deg_before": 0.10287479447529069,
+      "residual_rms_deg_after": 0.08280685795837917,
+      "max_step_deg_before": 10.10009521442973,
+      "max_step_deg_after": 9.929426674993678,
+      "minimum_adjacent_dot": 0.996248185634613
+    },
+    "mixamorig:Spine1": {
+      "quiet_samples": 90,
+      "residual_rms_deg_before": 0.10224066937912017,
+      "residual_rms_deg_after": 0.08372187853423796,
+      "max_step_deg_before": 2.904513473154779,
+      "max_step_deg_after": 2.768464408317568,
+      "minimum_adjacent_dot": 0.9997081756591797
+    },
+    "mixamorig:Spine2": {
+      "quiet_samples": 92,
+      "residual_rms_deg_before": 0.10532648415427463,
+      "residual_rms_deg_after": 0.08433384947517544,
+      "max_step_deg_before": 22.87759363137677,
+      "max_step_deg_after": 22.326546124980048,
+      "minimum_adjacent_dot": 0.9810794591903687
+    },
+    "mixamorig:LeftArm": {
+      "quiet_samples": 109,
+      "residual_rms_deg_before": 0.4512824343158045,
+      "residual_rms_deg_after": 0.414161610076694,
+      "max_step_deg_before": 16.630391116757522,
+      "max_step_deg_after": 16.566510174323916,
+      "minimum_adjacent_dot": 0.9895679354667664
+    },
+    "mixamorig:LeftForeArm": {
+      "quiet_samples": 122,
+      "residual_rms_deg_before": 0.4548463912773665,
+      "residual_rms_deg_after": 0.3879182614115121,
+      "max_step_deg_before": 17.901741114654506,
+      "max_step_deg_after": 17.602188087889832,
+      "minimum_adjacent_dot": 0.9882254600524902
+    },
+    "mixamorig:RightArm": {
+      "quiet_samples": 105,
+      "residual_rms_deg_before": 0.3999944142214618,
+      "residual_rms_deg_after": 0.3459315035798369,
+      "max_step_deg_before": 18.434756415877942,
+      "max_step_deg_after": 17.347698095410593,
+      "minimum_adjacent_dot": 0.988562822341919
+    },
+    "mixamorig:RightForeArm": {
+      "quiet_samples": 112,
+      "residual_rms_deg_before": 0.42388907898222355,
+      "residual_rms_deg_after": 0.4120854813281031,
+      "max_step_deg_before": 22.245258551922383,
+      "max_step_deg_after": 21.184647269936637,
+      "minimum_adjacent_dot": 0.9829599857330322
+    },
+    "mixamorig:LeftUpLeg": {
+      "quiet_samples": 82,
+      "residual_rms_deg_before": 0.2861068873054659,
+      "residual_rms_deg_after": 0.23974869022534115,
+      "max_step_deg_before": 5.47276044012452,
+      "max_step_deg_after": 4.85957717812413,
+      "minimum_adjacent_dot": 0.999100923538208
+    },
+    "mixamorig:LeftLeg": {
+      "quiet_samples": 92,
+      "residual_rms_deg_before": 0.42146779790307587,
+      "residual_rms_deg_after": 0.3344481832220201,
+      "max_step_deg_before": 7.466999282108234,
+      "max_step_deg_after": 7.15657544888469,
+      "minimum_adjacent_dot": 0.9980504512786865
+    },
+    "mixamorig:RightUpLeg": {
+      "quiet_samples": 79,
+      "residual_rms_deg_before": 0.25251505671741176,
+      "residual_rms_deg_after": 0.22680184758026226,
+      "max_step_deg_before": 4.503195549104411,
+      "max_step_deg_after": 4.345355951625898,
+      "minimum_adjacent_dot": 0.999281108379364
+    },
+    "mixamorig:RightLeg": {
+      "quiet_samples": 79,
+      "residual_rms_deg_before": 0.2157884383162823,
+      "residual_rms_deg_after": 0.17620925619592487,
+      "max_step_deg_before": 3.917693719092559,
+      "max_step_deg_after": 3.982302579647133,
+      "minimum_adjacent_dot": 0.9993962049484253
+    }
+  },
+  "source_hash": "1232dbccd4dc47a4b91d5b51d5cc235631a78e297c902de2724d821d328217d9",
+  "original_action": "MOCAP_SMOOTH_sword_combo_ef771c1f",
+  "new_action": "MOCAP_PHASE2_Balanced_9067bfc2",
+  "reference_unchanged": true,
+  "rigs_meshes_weights_unchanged": true,
+  "original_action_keyframes_unchanged": true,
+  "samples": 572,
+  "range": [
+    1,
+    573
+  ],
+  "parameters": {
+    "window": 15,
+    "quiet": 0.97,
+    "fast": 0.15,
+    "rotation_radius": 4,
+    "rotation_quiet": 0.88,
+    "rotation_fast": 0.1
+  },
+  "quaternion_filter": "Centered hemisphere-aligned Gaussian quaternion mean radius 4; quiet/fast blend 0.88/0.1",
+  "limitations": "Motion-derived quiet masks and speed peaks are proxies, not ground-truth labels for stationary poses/punches."
+}

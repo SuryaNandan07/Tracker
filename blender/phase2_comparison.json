@@ -1,0 +1,47 @@
+[
+  {
+    "preset": "Natural",
+    "landmark_mm": 2.9722412883246574,
+    "rotation_deg": 0.3088420186773629,
+    "baseline_rotation_deg": 0.3359510816421571,
+    "peak_percent": [
+      99.23394375730665,
+      101.19214328079791
+    ],
+    "max_peak_shift_ms": 17.000000000000128,
+    "max_step_deg": 23.48931053828668,
+    "quiet_rotation_samples": 1159,
+    "mesh_displacement_m": 1.0325761573411547,
+    "reopened": true
+  },
+  {
+    "preset": "Balanced",
+    "landmark_mm": 2.9731400217801807,
+    "rotation_deg": 0.29825004048900466,
+    "baseline_rotation_deg": 0.3359510816421571,
+    "peak_percent": [
+      95.65122924142192,
+      98.13291559674711
+    ],
+    "max_peak_shift_ms": 17.000000000000128,
+    "max_step_deg": 22.326546124980048,
+    "quiet_rotation_samples": 1159,
+    "mesh_displacement_m": 1.037982135335141,
+    "reopened": true
+  },
+  {
+    "preset": "Cinematic",
+    "landmark_mm": 2.9486947193266384,
+    "rotation_deg": 0.2971566798129339,
+    "baseline_rotation_deg": 0.3359510816421571,
+    "peak_percent": [
+      83.88682513565111,
+      93.46754955286298
+    ],
+    "max_peak_shift_ms": 17.000000000000128,
+    "max_step_deg": 19.472388891602677,
+    "quiet_rotation_samples": 1159,
+    "mesh_displacement_m": 1.0483401675639121,
+    "reopened": true
+  }
+]

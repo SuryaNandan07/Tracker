@@ -1,0 +1,7 @@
+{
+  "save_load_cleanup": true,
+  "error_cleanup": true,
+  "actions_unchanged": true,
+  "registered_timer_cleanup": true,
+  "blender": "5.1.2"
+}

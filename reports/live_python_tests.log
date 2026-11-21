@@ -1,0 +1,60 @@
+test_export_preserves_frames_identity_time_missing_and_source (test_blender_export.BlenderExportTests.test_export_preserves_frames_identity_time_missing_and_source) ... ok
+test_interpolation_uses_time_not_row_number (test_blender_export.BlenderExportTests.test_interpolation_uses_time_not_row_number) ... ok
+test_invalid_timestamps_rejected_before_scene_creation (test_blender_export.BlenderExportTests.test_invalid_timestamps_rejected_before_scene_creation) ... ok
+test_leading_trailing_holds_and_never_observed_joint (test_blender_export.BlenderExportTests.test_leading_trailing_holds_and_never_observed_joint) ... ok
+test_no_overwrites_or_exports_into_recordings (test_blender_export.BlenderExportTests.test_no_overwrites_or_exports_into_recordings) ... ok
+Ready: R = record, S = stop/save, Q = save/exit. Focus the preview window.
+Recording: test_take_a7642cccac7f408788b8742e5e097b5b
+Saved: C:\Users\surya\AppData\Local\Temp\tmpz53p43rl\recordings\test_take_a7642cccac7f408788b8742e5e097b5b
+test_camera_disconnect_saves_and_releases (test_capture.CaptureTests.test_camera_disconnect_saves_and_releases) ... ok
+Ready: R = record, S = stop/save, Q = save/exit. Focus the preview window.
+Recording: test_take_d39b8f5ad46c42939b30e803acf35436
+Saved: C:\Users\surya\AppData\Local\Temp\tmpg_uaflox\recordings\test_take_d39b8f5ad46c42939b30e803acf35436
+test_r_s_q_save_and_cleanup (test_capture.CaptureTests.test_r_s_q_save_and_cleanup) ... ok
+test_causal_filter_missing_and_immutability (test_live.LiveTests.test_causal_filter_missing_and_immutability) ... ok
+test_gate_reordering_age_restart (test_live.LiveTests.test_gate_reordering_age_restart) ... ok
+test_invalid_packets (test_live.LiveTests.test_invalid_packets) ... ok
+test_udp_roundtrip (test_live.LiveTests.test_udp_roundtrip) ... ok
+test_constant_and_input_unchanged (test_phase2.Phase2Tests.test_constant_and_input_unchanged) ... ok
+test_fast_motion_receives_less_correction (test_phase2.Phase2Tests.test_fast_motion_receives_less_correction) ... ok
+test_low_confidence_outlier_has_less_influence (test_phase2.Phase2Tests.test_low_confidence_outlier_has_less_influence) ... ok
+test_empty_take_and_incomplete_result (test_pipeline.PipelineTests.test_empty_take_and_incomplete_result) ... ok
+test_playback_loading_with_mediapipe_import_blocked (test_pipeline.PipelineTests.test_playback_loading_with_mediapipe_import_blocked) ... ok
+test_reject_wrong_shapes_and_bad_timestamps (test_pipeline.PipelineTests.test_reject_wrong_shapes_and_bad_timestamps) ... ok
+test_reject_zero_filled_missing_frame (test_pipeline.PipelineTests.test_reject_zero_filled_missing_frame) ... ok
+test_resolve_without_database (test_pipeline.PipelineTests.test_resolve_without_database) ... ok
+test_roundtrip_shapes_timing_and_missing_values (test_pipeline.PipelineTests.test_roundtrip_shapes_timing_and_missing_values) ... ok
+test_sqlite_lookup_and_json (test_pipeline.PipelineTests.test_sqlite_lookup_and_json) ... ok
+test_unique_directories_and_no_overwrite (test_pipeline.PipelineTests.test_unique_directories_and_no_overwrite) ... ok
+test_noise_reduced_without_mutating_input (test_smoothing.SmoothingTests.test_noise_reduced_without_mutating_input) ... ok
+test_quadratic_motion_is_preserved (test_smoothing.SmoothingTests.test_quadratic_motion_is_preserved) ... ok
+test_reject_even_window (test_smoothing.SmoothingTests.test_reject_even_window) ... ok
+test_forced_fps (test_video.ClockTests.test_forced_fps) ... ok
+test_source_variable_timing_and_integer_monotonicity (test_video.ClockTests.test_source_variable_timing_and_integer_monotonicity) ... ok
+test_unknown_fps_allowed_until_fallback_needed (test_video.ClockTests.test_unknown_fps_allowed_until_fallback_needed) ... ok
+test_unreliable_pts_switch_permanently_to_anchored_fps (test_video.ClockTests.test_unreliable_pts_switch_permanently_to_anchored_fps) ... ok
+Processing C:\Users\surya\AppData\Local\Temp\tmphb5dvyys\source.mp4 (6 reported frames). Sequential processing; no frame skipping.
+Saved 1 frames (interrupted): C:\Users\surya\AppData\Local\Temp\tmphb5dvyys\recordings\video_test_49d28b3c44924ba8ba544c916c1c7bc0
+test_interrupt_saves_prefix (test_video.VideoTests.test_interrupt_saves_prefix) ... ok
+test_invalid_and_empty_file (test_video.VideoTests.test_invalid_and_empty_file) ... ok
+Processing C:\Users\surya\AppData\Local\Temp\tmplu8v4pv1\source.mp4 (6 reported frames). Sequential processing; no frame skipping.
+Saved 6 frames (end_of_stream): C:\Users\surya\AppData\Local\Temp\tmplu8v4pv1\recordings\video_test_98393e76c14842379ddee6a045acee4c
+Timing fallback: {'requested_mode': 'fps', 'fallback_fps': 50, 'source_timestamp_frames': 0, 'fps_timestamp_frames': 6, 'fallback_start_frame': 0, 'fallback_reason': 'forced FPS mode', 'inference_timestamp_adjustments': 0}
+test_no_reference_and_forced_fallback (test_video.VideoTests.test_no_reference_and_forced_fallback) ... ok
+Processing C:\Users\surya\AppData\Local\Temp\tmp5p6_8qcn\source.mp4 (25 reported frames). Sequential processing; no frame skipping.
+test_open_file_with_no_readable_frames (test_video.VideoTests.test_open_file_with_no_readable_frames) ... ok
+Processing C:\Users\surya\AppData\Local\Temp\tmp18tk6qql\source.mp4 (6 reported frames). Sequential processing; no frame skipping.
+Saved 6 frames (end_of_stream): C:\Users\surya\AppData\Local\Temp\tmp18tk6qql\recordings\video_test_357307101dc544779f136468840cca6d
+test_sequential_decode_reference_and_playback_compatibility (test_video.VideoTests.test_sequential_decode_reference_and_playback_compatibility) ... ok
+Processing C:\Users\surya\AppData\Local\Temp\tmp0ebrxotg\source.mp4 (6 reported frames). Sequential processing; no frame skipping.
+WARNING: Decoder returned 1 frames; container reported 6. This may be an approximate frame count or an early decode failure. All readable frames are saved; completeness is unverified.
+Saved 1 frames (end_of_stream_count_mismatch): C:\Users\surya\AppData\Local\Temp\tmp0ebrxotg\recordings\video_test_b2eea95fe98e4829b2d0e3a9b0c34dfd
+test_unreadable_middle_saves_prefix_and_releases (test_video.VideoTests.test_unreadable_middle_saves_prefix_and_releases) ... ok
+test_unsupported_file (test_video.VideoTests.test_unsupported_file) ... ok
+
+----------------------------------------------------------------------
+Ran 36 tests in 1.799s
+
+OK
+Truncating packet of size 13344 to 7
+[matroska,webm @ 000002556b1fd840] EBML header parsing failed
